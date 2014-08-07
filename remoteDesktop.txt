@@ -1,0 +1,1 @@
+ rdesktop -u 51LogonAdmin -p Qingchen2014QQ 60.211.253.140
