@@ -4,6 +4,3 @@ Git is free software distributed under thr GPL.
 nothing can useful.
 Come on.
 Github.
-branch.
-add a branch.
-stash test.
